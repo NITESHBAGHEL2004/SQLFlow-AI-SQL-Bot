@@ -109,12 +109,3 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 ## 🔹 License
 
 This project is licensed under the **MIT License**.
-
----
-
-💡 **Pro tip for GitHub:** Add a **1-liner tagline** in your repo description:
-👉 *"AI-powered SQL Assistant that converts natural language into executable SQL queries."*
-
----
-
-Do you also want me to **generate a `requirements.txt`** for your repo so contributors can directly install dependencies?
