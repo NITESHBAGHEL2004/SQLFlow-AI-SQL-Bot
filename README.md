@@ -4,8 +4,10 @@
 
 SQLFlow is an AI-driven SQL Assistant that converts natural language queries into SQL and executes them directly on your database. It’s designed to make database interaction simple, fast, and accessible for both developers and non-technical users.
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/NITESHBAGHEL2004/SQLFlow-AI-SQL-Bot/blob/7e649bef68f02f080d767a86f4fc389a07509097/Screenshot%202025-09-02%20174842.png)
+![alt text](https://github.com/NITESHBAGHEL2004/SQLFlow-AI-SQL-Bot/blob/7e649bef68f02f080d767a86f4fc389a07509097/Screenshot%202025-09-02%20174858.png)
+![alt text]()
+
 
 
 🔹 Features
